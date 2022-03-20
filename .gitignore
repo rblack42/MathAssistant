@@ -1,0 +1,24 @@
+# Mac
+.DS_Store
+
+# Python
+*.py[cod]
+__pycache__
+.direnv
+
+# Fortran
+*.o
+rrbaxi
+
+# Vim
+*.swp
+*~
+
+# Jupyter
+.ipynb_checkpoints
+
+# TeX
+*.log
+*.aux
+*.toc
+
