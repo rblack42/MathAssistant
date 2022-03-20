@@ -1,0 +1,25 @@
+# Jupyter requirements
+jupyter-book
+jupyter-contrib-nbextensions
+sphinxcontrib-napoleon
+sphinxcontrib-spelling
+sphinxcontrib-programoutput
+
+# application requirements
+numpy==1.21.5
+numpy-stl
+scipy
+sympy
+matplotlib
+pint
+fluids
+pegen
+
+# PyTest requirements
+pytest
+pytest-cov
+coverage
+coveralls
+flake8
+nbmake
+ipytest
